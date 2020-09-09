@@ -1,0 +1,18 @@
+CSCE 2110.021
+10W SUM20
+Project 2 - Contagion
+
+Group 201-1
+Members:
+    Alex Dillinger
+    Chase Golden
+    Miguel Perez
+    Peyton Thibodeaux
+
+How to compile (GCC):
+1. Save main.cpp, region.h, and region.cpp in the same folder
+2. Run "g++ main.cpp region.cpp distro.cpp" in your terminal
+
+How to run:
+1. Run ./a.out
+2. When prompted for a configuration file, enter one that is saved in the same folder as a.out
